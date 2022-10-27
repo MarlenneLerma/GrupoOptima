@@ -1,0 +1,59 @@
+body {
+
+   
+}
+
+#formulario{
+    box-shadow: -3px 19px 26px 0px rgba(43,32,32,0.91);
+    -webkit-box-shadow: -3px 19px 26px 0px rgba(43,32,32,0.91);
+    -moz-box-shadow: -3px 19px 26px 0px rgba(43,32,32,0.91);
+
+    width: 50%;
+    
+
+}
+
+.navbar{
+    box-shadow: -3px 19px 26px -10px rgba(43,32,32,0.91);
+    -webkit-box-shadow: -3px 19px 26px -10px rgba(43,32,32,0.91);
+    -moz-box-shadow: -3px 19px 26px -10px rgba(43,32,32,0.91);
+}
+
+#tabla{
+    box-shadow: -3px 19px 26px 0px rgba(43,32,32,0.91);
+    -webkit-box-shadow: -3px 19px 26px 0px rgba(43,32,32,0.91);
+    -moz-box-shadow: -3px 19px 26px 0px rgba(43,32,32,0.91);
+    margin-top: -200px;
+}
+
+.honda{
+    width: 150px;
+    height: 125px;
+    margin-left: 52%;
+    margin-top: -200px;
+    margin-bottom: 150px;
+}
+
+.kia{
+    width: 150px;
+    height: 125px;
+    margin-left: 70%;
+    margin-top: -230px;
+    margin-bottom: 150px;
+}
+
+.ford{
+    width: 150px;
+    height: 125px;
+    margin-left: 52%;
+    margin-top: -170px;
+    margin-bottom: 150px;
+}
+
+.nissan{
+    width: 250px;
+    height: 160px;
+    margin-left: 62%;
+    margin-top: -230px;
+    margin-bottom: 100px;
+}
